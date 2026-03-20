@@ -67,7 +67,7 @@ We are given data for 10 customers located in different regions of the Netherlan
 
 ## 📂 Project Structure
 
-
+```
 warehouse-location-optimization/
 │
 ├── data/
@@ -85,8 +85,7 @@ warehouse-location-optimization/
 │
 └── README.md
 
-
----
+```
 
 ## 💡 Key Learnings
 
